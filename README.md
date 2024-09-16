@@ -1,1 +1,1 @@
-Tg bot asyncio
+Tg bot aiogram
